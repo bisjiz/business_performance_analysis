@@ -1,0 +1,6 @@
+customer_id,signup_date,acquisition_channel,city
+1,2026-01-05,Organic,Delhi
+2,2026-01-10,Referral,Mumbai
+3,2026-01-12,"Paid Ads",Bangalore
+4,2026-01-15,Organic,Pune
+5,2026-02-01,Referral,Kolkata
